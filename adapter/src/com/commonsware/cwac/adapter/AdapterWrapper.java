@@ -22,7 +22,7 @@ import android.widget.BaseAdapter;
 import android.widget.ListAdapter;
 
 /**
- * Adapter that delegates to a wrapped LisAdapter, much as
+ * Adapter that delegates to a wrapped ListAdapter, much as
  * CursorWrapper delegates to a wrapped Cursor.
  */
 public class AdapterWrapper extends BaseAdapter {
