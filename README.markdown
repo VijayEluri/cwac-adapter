@@ -53,7 +53,7 @@ None at present.
 
 Version
 -------
-This is version v1.0.2 of this module. And there was much rejoicing.
+This is version v1.0.3 of this module. And there was much rejoicing.
 
 Demo
 ----
@@ -80,6 +80,7 @@ Do not ask for help via Twitter.
 
 Release Notes
 -------------
+- v1.0.3: updated for Android Studio 1.0 and new AAR publishing system
 - v1.0.2: updated Gradle, fixed manifest for manifest merging, added `cwac-` prefix to JAR
 - v1.0.1: added Gradle build files and published AAR
 - v1.0.0: made this the official 1.0 release
