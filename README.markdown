@@ -74,7 +74,7 @@ what CWAC module you are having issues with, and be sure to include source code
 and stack traces if you are encountering crashes.
 
 If you have encountered what is clearly a bug, please post an [issue](https://github.com/commonsguy/cwac-adapter/issues). Be certain to include complete steps
-for reproducing the issue. The [contribution guidelines](CONTRIBUTING.html)
+for reproducing the issue. The [contribution guidelines](CONTRIBUTING.md)
 provide some suggestions for how to create a bug report that will get
 the problem fixed the fastest.
 
