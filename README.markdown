@@ -31,7 +31,7 @@ repositories {
 }
 
 dependencies {
-    compile 'com.commonsware.cwac:adapter:1.0.+'
+    compile 'com.commonsware.cwac:adapter:1.0.5'
 }
 ```
 
@@ -53,7 +53,7 @@ None at present.
 
 Version
 -------
-This is version v1.0.3 of this module. And there was much rejoicing.
+This is version v1.0.5 of this module. And there was much rejoicing.
 
 Demo
 ----
@@ -68,7 +68,7 @@ file.
 Questions
 ---------
 If you have questions regarding the use of this code, please post a question
-on [StackOverflow](http://stackoverflow.com/questions/ask) tagged with
+on [Stack Overflow](http://stackoverflow.com/questions/ask) tagged with
 `commonsware-cwac` and `android` after [searching to see if there already is an answer](https://stackoverflow.com/search?q=[commonsware-cwac]+adapterwrapper). Be sure to indicate
 what CWAC module you are having issues with, and be sure to include source code 
 and stack traces if you are encountering crashes.
@@ -78,10 +78,16 @@ for reproducing the issue. The [contribution guidelines](CONTRIBUTING.md)
 provide some suggestions for how to create a bug report that will get
 the problem fixed the fastest.
 
+You are also welcome to join
+[the CommonsWare Community](https://community.commonsware.com/)
+and post questions
+and ideas to [the CWAC category](https://community.commonsware.com/c/cwac).
+
 Do not ask for help via Twitter.
 
 Release Notes
 -------------
+- v1.0.5: added sources and JavaDocs JARs to the uploaded artifacts
 - v1.0.3: updated for Android Studio 1.0 and new AAR publishing system
 - v1.0.2: updated Gradle, fixed manifest for manifest merging, added `cwac-` prefix to JAR
 - v1.0.1: added Gradle build files and published AAR
