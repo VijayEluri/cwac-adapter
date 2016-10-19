@@ -29,8 +29,9 @@ public class AdapterWrapper extends BaseAdapter {
   private ListAdapter wrapped=null;
 
   /**
-    * Constructor wrapping a supplied ListAdapter
-    */
+   * Constructor wrapping a supplied ListAdapter
+   * @param wrapped ListAdapter to wrap
+   */
   public AdapterWrapper(ListAdapter wrapped) {
     super();
     
