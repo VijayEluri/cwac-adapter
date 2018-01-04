@@ -14,13 +14,13 @@ Most likely the most common contribution to a library like this will be bug repo
 
 ## Contributing Feature Requests
 
-If you have an idea for how to make the library better, feel free to file an [issue](https://github.com/commonsguy/cwac-cam2/issues).
+If you have an idea for how to make the library better, feel free to file an [issue](../issues).
 You will have better luck in getting the feature implemented if you can "sell" the library author
 on how this feature will help the library author.
 
 ## Asking for Other Sorts of Help
 
-Please read [the project documentation](https://github.com/commonsguy/cwac-cam2#questions)
+Please read [the project documentation](../README.markdown#questions)
 for instructions on where and how to ask questions.
 
 ## Contributing Code
